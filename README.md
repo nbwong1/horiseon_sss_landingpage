@@ -12,6 +12,9 @@ I was most looking forward to the organization and semantics that websites use a
 
 I believe my updated code allows for more accessibility and also increases the reachability of my projects by providing accurate headers, text, and elements. 
 
+Here is a screenshot of the website based on my code: 
+![horiseon sss inc website](https://github.com/nbwong1/horiseon_sss_landingpage/blob/main/horiseon_sss_landingpage.png)
+
 ## How to use my projects
 
 Others after me who will be learning web development can see the process and steps I have taken in order to help improve my own skills. Looking through Github and my repositories can show how I have learned from others and my own mistakes. 
